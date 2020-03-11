@@ -1,0 +1,6 @@
+country,city,gender,age,ethncity,date,travel,direct,potential,self-isolation,contracted,confirmed
+nz,auckland,male,60,iran,03/05/2020,Family Member Came From Iran,26,126,true,family,1
+nz,auckland,female,40,iran,03/03/2020,Family Member Came From Iran,1,8,true,family,1
+nz,auckland,female,30,white,02/28/2020,Traveling from italy,100,300,true,travel,1
+nz,auckland,male,40,iran,03/06/2020,Traveling to iran,18,7,true,Traveling,1
+nz,auckland,male,30,white,03/04/2020,Partner after traveling to italy,0,2000,true,traveling,1

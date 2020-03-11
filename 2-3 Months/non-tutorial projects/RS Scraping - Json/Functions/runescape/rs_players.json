@@ -1,0 +1,46 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "player": "Snapbot",
+                "combat": 126,
+                "world": 390
+            },
+            "gear": {
+                "head": {
+                    "name": "Graceful hood",
+                    "id": 1185
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "player": "cyamate",
+                "combat": 69,
+                "world": 302
+            },
+            "gear": {
+                "head": {
+                    "name": "Graceful hood",
+                    "id": 1185
+                }
+            }
+        },
+            {
+            "type": "Feature",
+            "properties": {
+                "player": "cyamate1111",
+                "combat": 50,
+                "world": 33
+            },
+            "gear": {
+                "head": {
+                    "name": "Graceful hood",
+                    "id": 1185
+                }
+            }
+        }
+    ]
+}

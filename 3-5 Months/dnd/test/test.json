@@ -1,0 +1,48 @@
+{
+    "dagger": [
+        1,
+        2,
+        "melee"
+    ],
+    "short sword": [
+        4,
+        6,
+        "melee"
+    ],
+    "long sword": [
+        2,
+        3,
+        "melee"
+    ],
+    "bow": [
+        1,
+        2,
+        "ranged"
+    ],
+    "long bow": [
+        4,
+        6,
+        "ranged"
+    ],
+    "crossbow": [
+        2,
+        3,
+        "ranged"
+    ],
+    "stick": [
+        1,
+        2,
+        "magic"
+    ],
+    "wand": [
+        4,
+        6,
+        "magic"
+    ],
+    "great staff": [
+        2,
+        3,
+        "magic"
+    ]
+
+}

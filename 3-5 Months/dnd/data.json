@@ -1,0 +1,91 @@
+{
+    "weapons": [{
+        "melee_weapon": [{
+                "weapon_name": "sword",
+                "min_damage": 3,
+                "max_damage": 10,
+                "wep_type": "1h sword"
+            },
+            {
+                "weapon_name": "broken dagger",
+                "min_damage": 3,
+                "max_damage": 8,
+                "wep_type": "dagger"
+            },
+            {
+                "weapon_name": "lance",
+                "min_damage": 10,
+                "max_damage": 15,
+                "wep_type": "2h sword"
+            },
+            {
+                "weapon_name": "great sword",
+                "min_damage": 15,
+                "max_damage": 20,
+                "wep_type": "2h sword"
+            },
+            {
+                "weapon_name": "Sharp Dagger",
+                "min_damage": 3,
+                "max_damage": 8,
+                "wep_type": "dagger"
+            },
+            {
+                "weapon_name": "fists",
+                "min_damage": 1,
+                "max_damage": 2,
+                "wep_type": "knuckles"
+            }
+        ],
+        "range_weapon": [{
+                "weapon_name": "bow",
+                "min_damage": 3,
+                "max_damage": 10,
+                "wep_type": "bow"
+            },
+            {
+                "weapon_name": "Short Bow",
+                "min_damage": 3,
+                "max_damage": 8,
+                "wep_type": "bow"
+            },
+            {
+                "weapon_name": "Ogre Bow",
+                "min_damage": 3,
+                "max_damage": 8,
+                "wep_type": "bow"
+            },
+            {
+                "weapon_name": "Long Bow",
+                "min_damage": 3,
+                "max_damage": 8,
+                "wep_type": "bow"
+            },
+            {
+                "weapon_name": "Hunter crossbow",
+                "min_damage": 12,
+                "max_damage": 14,
+                "wep_type": "crossbow"
+            }
+        ],
+        "magic_weapon": [{
+                "weapon_name": "Staff",
+                "min_damage": 3,
+                "max_damage": 8,
+                "wep_type": "Stick"
+            },
+            {
+                "weapon_name": "Wand",
+                "min_damage": 7,
+                "max_damage": 12,
+                "wep_type": "Something here"
+            },
+            {
+                "weapon_name": "Staff",
+                "min_damage": 3,
+                "max_damage": 8,
+                "wep_type": "Stick"
+            }
+        ]
+    }]
+}

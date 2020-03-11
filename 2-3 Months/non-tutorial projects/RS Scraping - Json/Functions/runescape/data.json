@@ -1,0 +1,1686 @@
+[
+    {
+        "name": "LeoKnightis3",
+        "world": 389,
+        "combat_level": 86,
+        "items": {
+            "weapon": {
+                "name": "Staff of fire",
+                "id": 1387
+            },
+            "shield": {
+                "name": "Anti-dragon shield",
+                "id": 1540
+            },
+            "torso": {
+                "name": "Dragon chainbody",
+                "id": 3140
+            },
+            "legs": {
+                "name": "Dragon platelegs",
+                "id": 4087
+            },
+            "boots": {
+                "name": "Dragon boots",
+                "id": 11840
+            },
+            "amulet": {
+                "name": "Amulet of glory(4)",
+                "id": 1712
+            }
+        }
+    },
+    {
+        "name": "34uzer2275",
+        "world": 389,
+        "combat_level": 64,
+        "items": {
+            "weapon": {
+                "name": "Staff of fire",
+                "id": 1387
+            },
+            "hands": {
+                "name": "Combat bracelet(6)",
+                "id": 11972
+            },
+            "torso": {
+                "name": "Rune chainbody",
+                "id": 1113
+            },
+            "legs": {
+                "name": "Rune platelegs",
+                "id": 1079
+            },
+            "boots": {
+                "name": "Rune boots",
+                "id": 4131
+            },
+            "amulet": {
+                "name": "Amulet of glory(5)",
+                "id": 11976
+            }
+        }
+    },
+    {
+        "name": "Benghi",
+        "world": 389,
+        "combat_level": 110,
+        "items": {
+            "weapon": {
+                "name": "Mystic fire staff",
+                "id": 1401
+            },
+            "shield": {
+                "name": "Unholy book",
+                "id": 3842
+            },
+            "hands": {
+                "name": "Barrows gloves",
+                "id": 7462
+            },
+            "boots": {
+                "name": "Dragon boots (g)",
+                "id": 22234
+            },
+            "cape": {
+                "name": "Fire cape",
+                "id": 6570
+            },
+            "amulet": {
+                "name": "Amulet of fury (or)",
+                "id": 12436
+            }
+        }
+    },
+        {
+            "name": "Tale Of Obby",
+            "world": 389,
+            "combat_level": 68,
+            "items": {
+                "legs": {
+                    "name": "Black platelegs (g)",
+                    "id": 2593
+                },
+                "amulet": {
+                    "name": "Necklace of passage(1)",
+                    "id": 21155
+                }
+            }
+        },
+    {
+        "name": "No Effect G",
+        "world": 389,
+        "combat_level": 104,
+        "items": {
+            "weapon": {
+                "name": "Abyssal whip",
+                "id": 4151
+            },
+            "shield": {
+                "name": "Dragon defender",
+                "id": 12954
+            },
+            "hands": {
+                "name": "Barrows gloves",
+                "id": 7462
+            },
+            "torso": {
+                "name": "Fighter torso",
+                "id": 10551
+            },
+            "legs": {
+                "name": "Dragon platelegs",
+                "id": 4087
+            },
+            "boots": {
+                "name": "Dragon boots",
+                "id": 11840
+            },
+            "cape": {
+                "name": "Fire cape",
+                "id": 6570
+            },
+            "amulet": {
+                "name": "Amulet of fury",
+                "id": 6585
+            }
+        }
+    },
+    {
+        "name": "Tribez Men",
+        "world": 389,
+        "combat_level": 3,
+        "items": {
+            "hands": {
+                "name": "Expert mining gloves",
+                "id": 21392
+            },
+            "torso": {
+                "name": "Prospector jacket",
+                "id": 12014
+            },
+            "legs": {
+                "name": "Prospector legs",
+                "id": 12015
+            },
+            "boots": {
+                "name": "Prospector boots",
+                "id": 12016
+            },
+            "cape": {
+                "name": "Smithing cape",
+                "id": 9795
+            },
+            "amulet": {
+                "name": "Skills necklace(1)",
+                "id": 11111
+            }
+        }
+    },
+    {
+        "name": "Ohmygod123",
+        "world": 389,
+        "combat_level": 70,
+        "items": {
+            "weapon": {
+                "name": "Staff of fire",
+                "id": 1387
+            },
+            "torso": {
+                "name": "Monk's robe top",
+                "id": 544
+            },
+            "legs": {
+                "name": "Monk's robe",
+                "id": 542
+            },
+            "amulet": {
+                "name": "Amulet of glory",
+                "id": 1704
+            }
+        }
+    },
+    {
+        "name": "N01sPurrf3ct",
+        "world": 389,
+        "combat_level": 35,
+        "items": {
+            "weapon": {
+                "name": "Magic shortbow",
+                "id": 861
+            },
+            "hands": {
+                "name": "Regen bracelet",
+                "id": 11133
+            },
+            "torso": {
+                "name": "Leather body",
+                "id": 1129
+            },
+            "legs": {
+                "name": "Blue d'hide chaps",
+                "id": 2493
+            },
+            "boots": {
+                "name": "Climbing boots",
+                "id": 3105
+            },
+            "cape": {
+                "name": "Team-38 cape",
+                "id": 4389
+            },
+            "amulet": {
+                "name": "Amulet of glory(1)",
+                "id": 1706
+            }
+        }
+    },
+    {
+        "name": "QueFacism",
+        "world": 389,
+        "combat_level": 74,
+        "items": {
+            "weapon": {
+                "name": "Dragon scimitar",
+                "id": 4587
+            },
+            "shield": {
+                "name": "Anti-dragon shield",
+                "id": 1540
+            },
+            "torso": {
+                "name": "Dragon platebody",
+                "id": 21892
+            },
+            "legs": {
+                "name": "Dragon platelegs",
+                "id": 4087
+            },
+            "boots": {
+                "name": "Rune boots",
+                "id": 4131
+            },
+            "amulet": {
+                "name": "Amulet of glory(4)",
+                "id": 1712
+            }
+        }
+    },
+    {
+        "name": "badname321",
+        "world": 389,
+        "combat_level": 78,
+        "items": {
+            "torso": {
+                "name": "Prince tunic",
+                "id": 6184
+            },
+            "legs": {
+                "name": "Prince leggings",
+                "id": 6185
+            },
+            "amulet": {
+                "name": "10th squad sigil",
+                "id": 4035
+            }
+        }
+    },
+    {
+        "name": "Tigerstrip3d",
+        "world": 389,
+        "combat_level": 47,
+        "items": {
+            "weapon": {
+                "name": "Brine sabre",
+                "id": 11037
+            },
+            "shield": {
+                "name": "Adamant kiteshield (g)",
+                "id": 2611
+            },
+            "hands": {
+                "name": "Regen bracelet",
+                "id": 11133
+            },
+            "torso": {
+                "name": "Adamant platebody (g)",
+                "id": 2607
+            },
+            "legs": {
+                "name": "Adamant platelegs (g)",
+                "id": 2609
+            },
+            "boots": {
+                "name": "Adamant boots",
+                "id": 4129
+            },
+            "cape": {
+                "name": "Obsidian cape (r)",
+                "id": 20050
+            },
+            "amulet": {
+                "name": "Amulet of fury",
+                "id": 6585
+            }
+        }
+    },
+    {
+        "name": "RGCBeatbox1",
+        "world": 389,
+        "combat_level": 88,
+        "items": {}
+    },
+    {
+        "name": "poppylocks",
+        "world": 389,
+        "combat_level": 42,
+        "items": {
+            "hands": {
+                "name": "Bracelet of ethereum (uncharged)",
+                "id": 21817
+            },
+            "torso": {
+                "name": "Leather body",
+                "id": 1129
+            },
+            "legs": {
+                "name": "Red d'hide chaps",
+                "id": 2495
+            },
+            "amulet": {
+                "name": "Amulet of glory(1)",
+                "id": 1706
+            }
+        }
+    },
+    {
+        "name": "Snapbot",
+        "world": 389,
+        "combat_level": 82,
+        "items": {}
+    },
+    {
+        "name": "1g Stick",
+        "world": 389,
+        "combat_level": 99,
+        "items": {}
+    },
+    {
+        "name": "Tor1994",
+        "world": 389,
+        "combat_level": 109,
+        "items": {
+            "weapon": {
+                "name": "Smoke battlestaff",
+                "id": 11998
+            }
+        }
+    },
+    {
+        "name": "giovanni y1",
+        "world": 389,
+        "combat_level": 58,
+        "items": {}
+    },
+    {
+        "name": "Veng Timing",
+        "world": 389,
+        "combat_level": 117,
+        "items": {}
+    },
+    {
+        "name": "latenighterr",
+        "world": 389,
+        "combat_level": 123,
+        "items": {}
+    },
+    {
+        "name": "Persicuta",
+        "world": 389,
+        "combat_level": 100,
+        "items": {
+            "weapon": {
+                "name": "Zamorakian hasta",
+                "id": 11889
+            },
+            "shield": {
+                "name": "Dragon defender",
+                "id": 12954
+            },
+            "hands": {
+                "name": "Dragon gloves",
+                "id": 7461
+            },
+            "boots": {
+                "name": "Primordial boots",
+                "id": 13239
+            },
+            "cape": {
+                "name": "Fire cape",
+                "id": 6570
+            },
+            "amulet": {
+                "name": "Necklace of anguish",
+                "id": 19547
+            }
+        }
+    },
+    {
+        "name": "Duckbreath",
+        "world": 389,
+        "combat_level": 84,
+        "items": {
+            "weapon": {
+                "name": "Rune crossbow",
+                "id": 9185
+            },
+            "shield": {
+                "name": "Anti-dragon shield",
+                "id": 1540
+            },
+            "hands": {
+                "name": "Void knight gloves",
+                "id": 8842
+            },
+            "torso": {
+                "name": "Void knight top",
+                "id": 8839
+            },
+            "legs": {
+                "name": "Void knight robe",
+                "id": 8840
+            },
+            "boots": {
+                "name": "Snakeskin boots",
+                "id": 6328
+            },
+            "cape": {
+                "name": "Ava's accumulator",
+                "id": 10499
+            },
+            "amulet": {
+                "name": "Amulet of glory(2)",
+                "id": 1708
+            }
+        }
+    },
+    {
+        "name": "Meow x143",
+        "world": 389,
+        "combat_level": 95,
+        "items": {
+            "weapon": {
+                "name": "Rune crossbow",
+                "id": 9185
+            },
+            "shield": {
+                "name": "Ancient wyvern shield",
+                "id": 21633
+            },
+            "hands": {
+                "name": "Granite gloves",
+                "id": 21736
+            },
+            "torso": {
+                "name": "Black d'hide body (t)",
+                "id": 12385
+            },
+            "legs": {
+                "name": "Verac's plateskirt 100",
+                "id": 4994
+            },
+            "boots": {
+                "name": "Dragon boots",
+                "id": 11840
+            },
+            "cape": {
+                "name": "Imbued zamorak cape",
+                "id": 21795
+            },
+            "amulet": {
+                "name": "Amulet of fury",
+                "id": 6585
+            }
+        }
+    },
+    {
+        "name": "TEAM Ygzeb",
+        "world": 389,
+        "combat_level": 88,
+        "items": {
+            "weapon": {
+                "name": "Toxic blowpipe",
+                "id": 12926
+            },
+            "hands": {
+                "name": "Bracelet of ethereum",
+                "id": 21816
+            },
+            "torso": {
+                "name": "Black d'hide body",
+                "id": 2503
+            },
+            "legs": {
+                "name": "Black d'hide chaps",
+                "id": 2497
+            },
+            "boots": {
+                "name": "Saradomin d'hide boots",
+                "id": 19933
+            },
+            "cape": {
+                "name": "Ava's accumulator",
+                "id": 10499
+            },
+            "amulet": {
+                "name": "Salve amulet(ei)",
+                "id": 12018
+            }
+        }
+    },
+    {
+        "name": "ChrisRs07",
+        "world": 389,
+        "combat_level": 123,
+        "items": {
+            "weapon": {
+                "name": "Dragon claws",
+                "id": 13652
+            },
+            "torso": {
+                "name": "Justiciar chestguard",
+                "id": 22327
+            },
+            "legs": {
+                "name": "Justiciar legguards",
+                "id": 22328
+            }
+        }
+    },
+    {
+        "name": "TeaZerPvM",
+        "world": 389,
+        "combat_level": 106,
+        "items": {
+            "weapon": {
+                "name": "Saradomin sword",
+                "id": 11838
+            },
+            "hands": {
+                "name": "Granite gloves",
+                "id": 21736
+            },
+            "torso": {
+                "name": "Bandos chestplate",
+                "id": 11832
+            },
+            "legs": {
+                "name": "Bandos tassets",
+                "id": 11834
+            },
+            "boots": {
+                "name": "Primordial boots",
+                "id": 13239
+            },
+            "cape": {
+                "name": "Fire cape",
+                "id": 6570
+            },
+            "amulet": {
+                "name": "Amulet of torture",
+                "id": 19553
+            }
+        }
+    },
+    {
+        "name": "NWF IceCold",
+        "world": 389,
+        "combat_level": 15,
+        "items": {
+            "amulet": {
+                "name": "Amulet of glory(1)",
+                "id": 1706
+            }
+        }
+    },
+    {
+        "name": "99buildlich",
+        "world": 389,
+        "combat_level": 59,
+        "items": {
+            "weapon": {
+                "name": "Staff of fire",
+                "id": 1387
+            },
+            "shield": {
+                "name": "Wooden shield",
+                "id": 1171
+            }
+        }
+    },
+    {
+        "name": "Im Mr Cee",
+        "world": 389,
+        "combat_level": 82,
+        "items": {
+            "weapon": {
+                "name": "Dragon scimitar",
+                "id": 4587
+            },
+            "shield": {
+                "name": "Dragon defender",
+                "id": 12954
+            },
+            "hands": {
+                "name": "Combat bracelet(4)",
+                "id": 11118
+            },
+            "torso": {
+                "name": "Rune platebody",
+                "id": 1127
+            },
+            "legs": {
+                "name": "Dragon platelegs",
+                "id": 4087
+            },
+            "boots": {
+                "name": "Dragon boots",
+                "id": 11840
+            },
+            "cape": {
+                "name": "Obsidian cape",
+                "id": 6568
+            },
+            "amulet": {
+                "name": "Amulet of fury",
+                "id": 6585
+            }
+        }
+    },
+    {
+        "name": "Grindin OSRS",
+        "world": 389,
+        "combat_level": 102,
+        "items": {
+            "weapon": {
+                "name": "Rune crossbow",
+                "id": 9185
+            },
+            "shield": {
+                "name": "Damaged book",
+                "id": 3841
+            },
+            "hands": {
+                "name": "Shayzien gloves (5)",
+                "id": 13377
+            },
+            "torso": {
+                "name": "Shayzien platebody (5)",
+                "id": 13381
+            },
+            "legs": {
+                "name": "Shayzien greaves (5)",
+                "id": 13380
+            },
+            "boots": {
+                "name": "Shayzien boots (5)",
+                "id": 13378
+            },
+            "cape": {
+                "name": "Ava's accumulator",
+                "id": 10499
+            },
+            "amulet": {
+                "name": "Amulet of fury",
+                "id": 6585
+            }
+        }
+    },
+    {
+        "name": "largemember",
+        "world": 389,
+        "combat_level": 120,
+        "items": {
+            "weapon": {
+                "name": "Abyssal tentacle",
+                "id": 12006
+            },
+            "shield": {
+                "name": "Dragon defender",
+                "id": 12954
+            },
+            "hands": {
+                "name": "Barrows gloves",
+                "id": 7462
+            },
+            "boots": {
+                "name": "Dragon boots",
+                "id": 11840
+            },
+            "cape": {
+                "name": "Strength cape(t)",
+                "id": 9751
+            },
+            "amulet": {
+                "name": "Amulet of torture",
+                "id": 19553
+            }
+        }
+    },
+    {
+        "name": "BlemFoReal",
+        "world": 389,
+        "combat_level": 108,
+        "items": {
+            "weapon": {
+                "name": "Dragon scimitar",
+                "id": 4587
+            },
+            "shield": {
+                "name": "Dragon defender",
+                "id": 12954
+            },
+            "hands": {
+                "name": "Barrows gloves",
+                "id": 7462
+            },
+            "torso": {
+                "name": "Fighter torso",
+                "id": 10551
+            },
+            "legs": {
+                "name": "Rune platelegs",
+                "id": 1079
+            },
+            "boots": {
+                "name": "Dragon boots",
+                "id": 11840
+            },
+            "cape": {
+                "name": "Fire cape",
+                "id": 6570
+            },
+            "amulet": {
+                "name": "Amulet of glory",
+                "id": 1704
+            }
+        }
+    },
+    {
+        "name": "tucky1993",
+        "world": 389,
+        "combat_level": 81,
+        "items": {
+            "weapon": {
+                "name": "Staff of water",
+                "id": 1383
+            },
+            "hands": {
+                "name": "Graceful gloves",
+                "id": 11859
+            },
+            "cape": {
+                "name": "Graceful cape",
+                "id": 11853
+            }
+        }
+    },
+    {
+        "name": "b1ck t2 lum",
+        "world": 389,
+        "combat_level": 107,
+        "items": {
+            "weapon": {
+                "name": "Mystic fire staff",
+                "id": 1401
+            }
+        }
+    },
+    {
+        "name": "Prospherity",
+        "world": 389,
+        "combat_level": 119,
+        "items": {}
+    },
+    {
+        "name": "WeedInjector",
+        "world": 389,
+        "combat_level": 92,
+        "items": {}
+    },
+    {
+        "name": "91CAL",
+        "world": 389,
+        "combat_level": 113,
+        "items": {
+            "weapon": {
+                "name": "Fire battlestaff",
+                "id": 1393
+            },
+            "hands": {
+                "name": "Graceful gloves",
+                "id": 11859
+            },
+            "torso": {
+                "name": "Graceful top",
+                "id": 11855
+            },
+            "legs": {
+                "name": "Graceful legs",
+                "id": 11857
+            },
+            "boots": {
+                "name": "Graceful boots",
+                "id": 11861
+            },
+            "cape": {
+                "name": "Graceful cape",
+                "id": 11853
+            }
+        }
+    },
+    {
+        "name": "Hidency",
+        "world": 389,
+        "combat_level": 76,
+        "items": {
+            "hands": {
+                "name": "Graceful gloves",
+                "id": 11859
+            },
+            "torso": {
+                "name": "Graceful top",
+                "id": 11855
+            },
+            "legs": {
+                "name": "Graceful legs",
+                "id": 11857
+            },
+            "boots": {
+                "name": "Graceful boots",
+                "id": 11861
+            },
+            "cape": {
+                "name": "Graceful cape",
+                "id": 11853
+            },
+            "amulet": {
+                "name": "Amulet of glory(4)",
+                "id": 1712
+            }
+        }
+    },
+    {
+        "name": "MutuSlayer2",
+        "world": 389,
+        "combat_level": 69,
+        "items": {}
+    },
+    {
+        "name": "karate2019",
+        "world": 389,
+        "combat_level": 80,
+        "items": {
+            "weapon": {
+                "name": "Staff of air",
+                "id": 1381
+            },
+            "torso": {
+                "name": "Graceful top",
+                "id": 11855
+            },
+            "boots": {
+                "name": "Graceful boots",
+                "id": 11861
+            },
+            "amulet": {
+                "name": "Amulet of glory(3)",
+                "id": 1710
+            }
+        }
+    },
+    {
+        "name": "Buhlakay696",
+        "world": 389,
+        "combat_level": 90,
+        "items": {
+            "weapon": {
+                "name": "Dharok's greataxe 100",
+                "id": 4886
+            },
+            "hands": {
+                "name": "Combat bracelet(4)",
+                "id": 11118
+            },
+            "torso": {
+                "name": "Dharok's platebody 100",
+                "id": 4892
+            },
+            "legs": {
+                "name": "Dharok's platelegs 100",
+                "id": 4898
+            },
+            "boots": {
+                "name": "Dragon boots",
+                "id": 11840
+            },
+            "cape": {
+                "name": "Obsidian cape",
+                "id": 6568
+            },
+            "amulet": {
+                "name": "Amulet of fury",
+                "id": 6585
+            }
+        }
+    },
+    {
+        "name": "FinnyScape",
+        "world": 389,
+        "combat_level": 103,
+        "items": {
+            "weapon": {
+                "name": "Mystic smoke staff",
+                "id": 12000
+            },
+            "hands": {
+                "name": "Graceful gloves",
+                "id": 13676
+            },
+            "torso": {
+                "name": "Graceful top",
+                "id": 13672
+            },
+            "legs": {
+                "name": "Graceful legs",
+                "id": 13674
+            },
+            "boots": {
+                "name": "Graceful boots",
+                "id": 13678
+            },
+            "cape": {
+                "name": "Graceful cape",
+                "id": 13670
+            }
+        }
+    },
+    {
+        "name": "Koala_Potato",
+        "world": 389,
+        "combat_level": 91,
+        "items": {}
+    },
+    {
+        "name": "McDanky42O",
+        "world": 389,
+        "combat_level": 121,
+        "items": {
+            "torso": {
+                "name": "Graceful top",
+                "id": 11855
+            },
+            "legs": {
+                "name": "Graceful legs",
+                "id": 11857
+            },
+            "boots": {
+                "name": "Devout boots",
+                "id": 22954
+            },
+            "cape": {
+                "name": "Slayer cape(t)",
+                "id": 9787
+            },
+            "amulet": {
+                "name": "Xeric's talisman",
+                "id": 13393
+            }
+        }
+    },
+    {
+        "name": "Raikoo",
+        "world": 389,
+        "combat_level": 62,
+        "items": {
+            "weapon": {
+                "name": "Staff of fire",
+                "id": 1387
+            },
+            "shield": {
+                "name": "Iron kiteshield",
+                "id": 1191
+            },
+            "hands": {
+                "name": "Black d'hide vamb",
+                "id": 2491
+            },
+            "torso": {
+                "name": "Iron platebody",
+                "id": 1115
+            },
+            "legs": {
+                "name": "Iron platelegs",
+                "id": 1067
+            }
+        }
+    },
+    {
+        "name": "Bonds R P2W",
+        "world": 389,
+        "combat_level": 100,
+        "items": {
+            "weapon": {
+                "name": "Yew longbow",
+                "id": 855
+            },
+            "amulet": {
+                "name": "Skills necklace(1)",
+                "id": 11111
+            }
+        }
+    },
+    {
+        "name": "Valforia",
+        "world": 389,
+        "combat_level": 49,
+        "items": {
+            "weapon": {
+                "name": "Yew shortbow",
+                "id": 857
+            },
+            "hands": {
+                "name": "Green d'hide vamb",
+                "id": 1065
+            },
+            "torso": {
+                "name": "Snakeskin body",
+                "id": 6322
+            },
+            "legs": {
+                "name": "Green d'hide chaps",
+                "id": 1099
+            },
+            "boots": {
+                "name": "Snakeskin boots",
+                "id": 6328
+            },
+            "cape": {
+                "name": "Red cape",
+                "id": 1007
+            },
+            "amulet": {
+                "name": "Amulet of glory",
+                "id": 1704
+            }
+        }
+    },
+    {
+        "name": "Zesty Drinks",
+        "world": 389,
+        "combat_level": 98,
+        "items": {
+            "weapon": {
+                "name": "Toktz-xil-ak",
+                "id": 6523
+            },
+            "shield": {
+                "name": "Dragon defender",
+                "id": 12954
+            },
+            "hands": {
+                "name": "Regen bracelet",
+                "id": 11133
+            },
+            "torso": {
+                "name": "Obsidian platebody",
+                "id": 21301
+            },
+            "legs": {
+                "name": "Obsidian platelegs",
+                "id": 21304
+            },
+            "boots": {
+                "name": "Dragon boots",
+                "id": 11840
+            },
+            "cape": {
+                "name": "Fletching cape",
+                "id": 9783
+            },
+            "amulet": {
+                "name": "Berserker necklace",
+                "id": 11128
+            }
+        }
+    },
+    {
+        "name": "Njr 99",
+        "world": 389,
+        "combat_level": 107,
+        "items": {
+            "weapon": {
+                "name": "Smoke battlestaff",
+                "id": 11998
+            }
+        }
+    },
+    {
+        "name": "EndPc",
+        "world": 389,
+        "combat_level": 92,
+        "items": {
+            "weapon": {
+                "name": "Staff of air",
+                "id": 1381
+            },
+            "shield": {
+                "name": "Book of darkness",
+                "id": 12612
+            },
+            "hands": {
+                "name": "Graceful gloves",
+                "id": 11859
+            },
+            "torso": {
+                "name": "Graceful top",
+                "id": 11855
+            },
+            "legs": {
+                "name": "Graceful legs",
+                "id": 11857
+            },
+            "boots": {
+                "name": "Mystic boots (light)",
+                "id": 4117
+            },
+            "cape": {
+                "name": "Guthix cape",
+                "id": 2413
+            },
+            "amulet": {
+                "name": "Amulet of fury",
+                "id": 6585
+            }
+        }
+    },
+    {
+        "name": "NissaSabyan",
+        "world": 389,
+        "combat_level": 80,
+        "items": {}
+    },
+    {
+        "name": "DIPPA187",
+        "world": 389,
+        "combat_level": 104,
+        "items": {
+            "amulet": {
+                "name": "Amulet of glory(6)",
+                "id": 11978
+            }
+        }
+    },
+    {
+        "name": "Beugsnbabez",
+        "world": 389,
+        "combat_level": 93,
+        "items": {}
+    },
+    {
+        "name": "Peejungjava",
+        "world": 389,
+        "combat_level": 123,
+        "items": {
+            "weapon": {
+                "name": "Infernal harpoon",
+                "id": 21031
+            },
+            "torso": {
+                "name": "Angler top",
+                "id": 13259
+            },
+            "legs": {
+                "name": "Angler waders",
+                "id": 13260
+            },
+            "boots": {
+                "name": "Angler boots",
+                "id": 13261
+            },
+            "cape": {
+                "name": "Mythical cape",
+                "id": 22114
+            },
+            "amulet": {
+                "name": "Games necklace(5)",
+                "id": 3859
+            }
+        }
+    },
+    {
+        "name": "Davo Dawg",
+        "world": 389,
+        "combat_level": 85,
+        "items": {
+            "weapon": {
+                "name": "Toxic blowpipe",
+                "id": 12926
+            },
+            "hands": {
+                "name": "Bandos bracers",
+                "id": 12498
+            },
+            "torso": {
+                "name": "Armadyl d'hide",
+                "id": 12508
+            },
+            "legs": {
+                "name": "Saradomin chaps",
+                "id": 10388
+            },
+            "boots": {
+                "name": "Zamorak d'hide boots",
+                "id": 19936
+            },
+            "cape": {
+                "name": "Ava's accumulator",
+                "id": 10499
+            },
+            "amulet": {
+                "name": "Amulet of fury",
+                "id": 6585
+            }
+        }
+    },
+    {
+        "name": "The-Queen_07",
+        "world": 389,
+        "combat_level": 97,
+        "items": {
+            "weapon": {
+                "name": "Toxic blowpipe",
+                "id": 12926
+            },
+            "torso": {
+                "name": "Black d'hide body",
+                "id": 2503
+            },
+            "legs": {
+                "name": "Black d'hide chaps",
+                "id": 2497
+            },
+            "boots": {
+                "name": "Snakeskin boots",
+                "id": 6328
+            },
+            "cape": {
+                "name": "Ava's attractor",
+                "id": 10498
+            },
+            "amulet": {
+                "name": "Salve amulet(ei)",
+                "id": 12018
+            }
+        }
+    },
+    {
+        "name": "MG4RS",
+        "world": 389,
+        "combat_level": 112,
+        "items": {
+            "weapon": {
+                "name": "Armadyl crossbow",
+                "id": 11785
+            },
+            "shield": {
+                "name": "Blessed spirit shield",
+                "id": 12831
+            },
+            "hands": {
+                "name": "Barrows gloves",
+                "id": 7462
+            },
+            "torso": {
+                "name": "Armadyl d'hide",
+                "id": 12508
+            },
+            "legs": {
+                "name": "Verac's plateskirt 100",
+                "id": 4994
+            },
+            "boots": {
+                "name": "Saradomin d'hide boots",
+                "id": 19933
+            },
+            "cape": {
+                "name": "Ava's accumulator",
+                "id": 10499
+            },
+            "amulet": {
+                "name": "Amulet of fury (or)",
+                "id": 12436
+            }
+        }
+    },
+    {
+        "name": "Yorinky",
+        "world": 389,
+        "combat_level": 117,
+        "items": {}
+    },
+    {
+        "name": "BundyRumbo",
+        "world": 389,
+        "combat_level": 102,
+        "items": {}
+    },
+    {
+        "name": "MokeLord21",
+        "world": 389,
+        "combat_level": 121,
+        "items": {
+            "weapon": {
+                "name": "Butterfly net",
+                "id": 10010
+            },
+            "shield": {
+                "name": "Book of darkness",
+                "id": 12612
+            },
+            "hands": {
+                "name": "Graceful gloves",
+                "id": 13676
+            },
+            "torso": {
+                "name": "Graceful top",
+                "id": 13672
+            },
+            "legs": {
+                "name": "Graceful legs",
+                "id": 13674
+            },
+            "boots": {
+                "name": "Graceful boots",
+                "id": 13678
+            },
+            "cape": {
+                "name": "Music cape",
+                "id": 13221
+            },
+            "amulet": {
+                "name": "Dragonbone necklace",
+                "id": 22111
+            }
+        }
+    },
+    {
+        "name": "Boozters",
+        "world": 389,
+        "combat_level": 111,
+        "items": {
+            "weapon": {
+                "name": "Abyssal whip",
+                "id": 4151
+            },
+            "shield": {
+                "name": "Dragon defender",
+                "id": 12954
+            },
+            "hands": {
+                "name": "Barrows gloves",
+                "id": 7462
+            },
+            "torso": {
+                "name": "Fighter torso",
+                "id": 10551
+            },
+            "legs": {
+                "name": "Obsidian platelegs",
+                "id": 21304
+            },
+            "boots": {
+                "name": "Dragon boots",
+                "id": 11840
+            },
+            "cape": {
+                "name": "Obsidian cape",
+                "id": 6568
+            },
+            "amulet": {
+                "name": "Amulet of fury",
+                "id": 6585
+            }
+        }
+    },
+    {
+        "name": "Dance i said",
+        "world": 389,
+        "combat_level": 93,
+        "items": {}
+    },
+    {
+        "name": "HS Slinger",
+        "world": 389,
+        "combat_level": 115,
+        "items": {
+            "weapon": {
+                "name": "Abyssal whip",
+                "id": 4151
+            },
+            "hands": {
+                "name": "Barrows gloves",
+                "id": 7462
+            },
+            "torso": {
+                "name": "Fighter torso",
+                "id": 10551
+            },
+            "legs": {
+                "name": "Rune platelegs",
+                "id": 1079
+            },
+            "boots": {
+                "name": "Dragon boots",
+                "id": 11840
+            },
+            "cape": {
+                "name": "Fire cape",
+                "id": 6570
+            }
+        }
+    },
+    {
+        "name": "TittinHairin",
+        "world": 389,
+        "combat_level": 56,
+        "items": {
+            "weapon": {
+                "name": "Adamant axe",
+                "id": 1357
+            },
+            "amulet": {
+                "name": "Amulet of glory(3)",
+                "id": 1710
+            }
+        }
+    },
+    {
+        "name": "99th problem",
+        "world": 389,
+        "combat_level": 112,
+        "items": {
+            "weapon": {
+                "name": "Dragon scimitar",
+                "id": 4587
+            },
+            "shield": {
+                "name": "Dragon defender",
+                "id": 12954
+            },
+            "hands": {
+                "name": "Barrows gloves",
+                "id": 7462
+            },
+            "torso": {
+                "name": "Fighter torso",
+                "id": 10551
+            },
+            "legs": {
+                "name": "Verac's plateskirt 50",
+                "id": 4996
+            },
+            "boots": {
+                "name": "Primordial boots",
+                "id": 13239
+            },
+            "cape": {
+                "name": "Fire cape",
+                "id": 6570
+            },
+            "amulet": {
+                "name": "Amulet of torture",
+                "id": 19553
+            }
+        }
+    },
+    {
+        "name": "Kabelbaiser",
+        "world": 389,
+        "combat_level": 118,
+        "items": {
+            "weapon": {
+                "name": "Armadyl crossbow",
+                "id": 11785
+            },
+            "shield": {
+                "name": "V's shield",
+                "id": 24266
+            },
+            "hands": {
+                "name": "Barrows gloves",
+                "id": 7462
+            },
+            "torso": {
+                "name": "Armadyl chestplate",
+                "id": 11828
+            },
+            "legs": {
+                "name": "Armadyl chainskirt",
+                "id": 11830
+            },
+            "boots": {
+                "name": "Pegasian boots",
+                "id": 13237
+            },
+            "cape": {
+                "name": "Ava's accumulator",
+                "id": 10499
+            },
+            "amulet": {
+                "name": "Necklace of anguish",
+                "id": 19547
+            }
+        }
+    },
+    {
+        "name": "EchoPetro",
+        "world": 389,
+        "combat_level": 56,
+        "items": {
+            "weapon": {
+                "name": "Candy cane",
+                "id": 22719
+            },
+            "torso": {
+                "name": "Snow imp costume body",
+                "id": 21849
+            },
+            "legs": {
+                "name": "Snow imp costume legs",
+                "id": 21851
+            },
+            "boots": {
+                "name": "Leather boots",
+                "id": 1061
+            },
+            "cape": {
+                "name": "Black cape",
+                "id": 1019
+            }
+        }
+    },
+    {
+        "name": "trap waifuu",
+        "world": 389,
+        "combat_level": 64,
+        "items": {
+            "weapon": {
+                "name": "Dragon dagger(p++)",
+                "id": 5698
+            },
+            "hands": {
+                "name": "Graceful gloves",
+                "id": 11859
+            },
+            "torso": {
+                "name": "Graceful top",
+                "id": 11855
+            },
+            "legs": {
+                "name": "Graceful legs",
+                "id": 11857
+            },
+            "boots": {
+                "name": "Graceful boots",
+                "id": 11861
+            },
+            "cape": {
+                "name": "Graceful cape",
+                "id": 11853
+            },
+            "amulet": {
+                "name": "Games necklace(2)",
+                "id": 3865
+            }
+        }
+    },
+    {
+        "name": "Valtamr",
+        "world": 389,
+        "combat_level": 76,
+        "items": {
+            "weapon": {
+                "name": "Rune axe",
+                "id": 1359
+            },
+            "hands": {
+                "name": "Graceful gloves",
+                "id": 13676
+            },
+            "torso": {
+                "name": "Graceful top",
+                "id": 13672
+            },
+            "legs": {
+                "name": "Graceful legs",
+                "id": 13674
+            },
+            "boots": {
+                "name": "Graceful boots",
+                "id": 13678
+            },
+            "cape": {
+                "name": "Graceful cape",
+                "id": 13670
+            },
+            "amulet": {
+                "name": "Amulet of glory(1)",
+                "id": 1706
+            }
+        }
+    },
+    {
+        "name": "Airsyy",
+        "world": 389,
+        "combat_level": 114,
+        "items": {
+            "weapon": {
+                "name": "Magic secateurs",
+                "id": 7409
+            },
+            "hands": {
+                "name": "Graceful gloves",
+                "id": 11859
+            },
+            "torso": {
+                "name": "Graceful top",
+                "id": 11855
+            },
+            "legs": {
+                "name": "Graceful legs",
+                "id": 11857
+            },
+            "boots": {
+                "name": "Graceful boots",
+                "id": 11861
+            },
+            "cape": {
+                "name": "Ardougne cloak 2",
+                "id": 13122
+            }
+        }
+    },
+    {
+        "name": "M2PWNS",
+        "world": 389,
+        "combat_level": 100,
+        "items": {}
+    },
+    {
+        "name": "Z-Zangetsu-Z",
+        "world": 389,
+        "combat_level": 101,
+        "items": {}
+    }
+]
